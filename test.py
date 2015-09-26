@@ -6,7 +6,6 @@
     Easy argument parsing with powerful dependency support.
     :copyright: (c) 2012 by Karl Gyllstrom
     :license: BSD (see LICENSE.txt)
-
 '''
 
 
